@@ -45,7 +45,7 @@ const Footer = () => {
 
         <div className="pt-8 border-t border-primary-foreground/20 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © 2025 StakeIt. Built on Hedera.
+            © 2026 StakeIt. Built on Hedera.
           </p>
           <div className="flex items-center gap-2 text-sm text-primary-foreground/80">
             <span>Made with</span>
